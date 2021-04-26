@@ -28,6 +28,7 @@ I make maps for most of the games I run, and they are [freely available to downl
 
 # Installation
 
+Once you have installed and activated the module, the scenes will appear as compendium in your game. Just import that, and you will have all the scenes ready to go - complete with walls etc. 
 
 ```
 https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json
