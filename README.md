@@ -33,7 +33,7 @@ I make maps for most of the games I run, and they are [freely available to downl
 https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json
 ```
 
-[![Preview Image](preview/preview-ditdp.jpg)](https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/preview/av1-preview.webp)
+[![Preview Image](preview/av1-preview.webp)](https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/preview/av1-preview.webp)
 
 
 
