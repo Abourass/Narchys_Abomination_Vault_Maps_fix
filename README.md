@@ -1,4 +1,4 @@
-# Agents of Edgewatch maps remake
+# Abomination Vaults maps remake
 
 This FoundryVTT module is compilation of maps for the Pathfinder Second Edition ABOMINATION VAULTS Adventure Path. It includes maps for book 1 made by myself for my own game - but shared with everyone in the hope that you will find it useful.
 
