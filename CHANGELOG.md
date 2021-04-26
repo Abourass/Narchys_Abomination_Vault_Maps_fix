@@ -1,3 +1,6 @@
+##1.1.1
+
+    * Book 1 wall layout fixes
 
 # 1.1.0
 
