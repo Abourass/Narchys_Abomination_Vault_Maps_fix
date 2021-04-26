@@ -1,33 +1,21 @@
 {
-  "name": "aoe-maps-remake-by-narchy",
-  "title": "Agents of Edgewatch maps remake",
-  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition AGENTS OF EDGEWATCH Adventure Path.</p>",
-  "version": "1.3.0",
+  "name": "av-maps-remake-by-narchy",
+  "title": "Abomination Vaults maps remake",
+  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition ABOMINATION VAULTS Adventure Path.</p>",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
   "author": "Narchy",
   "packs": [
     {
-      "name": "agents-of-edgewatch-remake-maps-book-1-by-narchy",
-      "label": "Agents of Edgewatch remake - Book 1 by Narchy",
-      "path": "/packs/agents-of-edgewatch-remake-maps-book-1-by-narchy.db",
+      "name": "av-remake-maps-book-1-by-narchy",
+      "label": "AV maps remake - Book 1 by Narchy",
+      "path": "/packs/av-remake-maps-book-1-by-narchy.db",
       "entity": "Scene"
-    },
-    {
-      "name": "agents-of-edgewatch-remake-maps-book-2-by-narchy",
-      "label": "Agents of Edgewatch remake - Book 2 by Narchy",
-      "path": "/packs/agents-of-edgewatch-remake-maps-book-2-by-narchy.db",
-      "entity": "Scene"
-    },
-    {
-      "name": "agents-of-edgewatch-remake-maps-book-3-by-narchy",
-      "label": "Agents of Edgewatch remake - Book 3 by Narchy",
-      "path": "/packs/agents-of-edgewatch-remake-maps-book-3-by-narchy.db",
-      "entity": "Scene"
-    }        
+    }      
 
   ],
-  "url": "https://gitlab.com/narchy-maps/agents-of-edgewatch-remade-maps",
-  "manifest": "https://gitlab.com/narchy-maps/agents-of-edgewatch-remade-maps/-/raw/master/module.json",
-  "download": "https://gitlab.com/narchy-maps/agents-of-edgewatch-remade-maps/-/archive/master/agents-of-edgewatch-remade-maps.zip"
+  "url": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps",
+  "manifest": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json",
+  "download": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/archive/master/abomination-vaults-remade-maps.zip"
 }
