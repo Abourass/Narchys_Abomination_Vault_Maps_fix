@@ -1,4 +1,4 @@
-##1.1.1
+##1.1.2
 
     * Added missing door in level 4 D21 - SpartanCPA
     * Fixed terrain walls in lighthouse - Freeman
