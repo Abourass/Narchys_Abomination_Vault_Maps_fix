@@ -1,3 +1,7 @@
+##1.1.3
+
+    * Fixed manifest URL on Foundry repository.
+
 ##1.1.2
 
     * Added missing door in level 4 D21 - SpartanCPA
