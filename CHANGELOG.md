@@ -1,13 +1,13 @@
-##1.1.3
+## 1.1.3
 
     * Fixed manifest URL on Foundry repository.
 
-##1.1.2
+## 1.1.2
 
     * Added missing door in level 4 D21 - SpartanCPA
     * Fixed terrain walls in lighthouse - Freeman
 
-##1.1.1
+## 1.1.1
 
     * Book 1 wall layout fixes
 
