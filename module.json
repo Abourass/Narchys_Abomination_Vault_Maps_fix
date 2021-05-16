@@ -12,18 +12,14 @@
       "label": "AV maps remake - Book 1 by Narchy",
       "path": "/packs/av-remake-maps-book-1-by-narchy.db",
       "entity": "Scene"
-    }      
-
+    },      
     {
       "name": "av-remake-maps-book-2-by-narchy",
       "label": "AV maps remake - Book 2 by Narchy",
       "path": "/packs/av-remake-maps-book-2-by-narchy.db",
       "entity": "Scene"
     }      
-
   ],
-
-
   
   "url": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps",
   "manifest": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json",
