@@ -1,3 +1,14 @@
+
+#1.2.0
+
+    * Next book update!
+
+    #### Book 2
+    * Level 5
+    * Level 6
+    * Level 7
+    * Smugglers' Refuge
+
 ## 1.1.3
 
     * Fixed manifest URL on Foundry repository.
