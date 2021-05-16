@@ -1,7 +1,6 @@
-
 #1.2.0
 
-    * Next book update!
+* Next book update!
 
     #### Book 2
     * Level 5
