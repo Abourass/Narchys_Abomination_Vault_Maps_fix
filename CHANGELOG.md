@@ -1,4 +1,9 @@
-#1.2.0
+
+## 1.2.1
+
+    * Added wall to level 4 Forever Stairs secret door. Added missing door to level 7 forge.
+
+# 1.2.0
 
 * Next book update!
 
