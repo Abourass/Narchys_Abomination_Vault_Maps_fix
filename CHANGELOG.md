@@ -1,3 +1,18 @@
+# 1.3.0
+
+* Book 3 maps Added
+
+    #### Book 3
+    * Level 8
+    * Level 9
+    * Level 10
+    * Level 9 (50px grid image version - no scene yet).
+
+    #### Book 2
+    * Level 7 - alternative colour scheme (just swap the image).
+
+    #### Book 1
+    * Level 1 - alternative cleaner version with increased contract between floors/walls (just swap the image).
 
 ## 1.2.1
 
