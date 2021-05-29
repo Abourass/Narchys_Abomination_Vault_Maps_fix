@@ -1,6 +1,6 @@
 # Abomination Vaults maps remake
 
-This FoundryVTT module is compilation of maps for the Pathfinder Second Edition ABOMINATION VAULTS Adventure Path. It includes maps for book 1 and 2 made by myself for my own game - but shared with everyone in the hope that you will find it useful.
+This FoundryVTT module is compilation of maps for the Pathfinder Second Edition ABOMINATION VAULTS Adventure Path. It includes maps for all three books, plus a map of the Graveyard, made by myself for my own game - but shared with everyone in the hope that you will find it useful.
 
 All maps are designed for for [FoundryVTT](https://foundryvtt.com/) - with walls, doors and windows set up. If you find a mistake, let me know. 
 
