@@ -1,5 +1,5 @@
 ## 1.3.1
-    * Various tweaks to maps images and walls.
+    * Various tweaks to map images and walls.
 
 # 1.3.0
 
