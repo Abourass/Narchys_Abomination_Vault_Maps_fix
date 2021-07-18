@@ -1,3 +1,6 @@
+## 1.3.2
+    * Made the teleport circle in the training grounds more obvious.
+
 ## 1.3.1
     * Various tweaks to map images and walls.
 
