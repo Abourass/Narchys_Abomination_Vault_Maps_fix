@@ -2,6 +2,8 @@
 
 This FoundryVTT module is compilation of maps for the Pathfinder Second Edition ABOMINATION VAULTS Adventure Path. It includes maps for all three books, plus a map of the Graveyard, made by myself for my own game - but shared with everyone in the hope that you will find it useful.
 
+The book 1 scenes pack includes an HD remake of the Otari town map, made by Anathema and used with permission.
+
 All maps are designed for for [FoundryVTT](https://foundryvtt.com/) - with walls, doors and windows set up. If you find a mistake, let me know. 
 
 The module does not contain any of the material or content from the book, and you will need to purchase your own copy to play it. You should support Paizo and their awesome product by [buying the darn books](https://paizo.com/store/pathfinder/adventures/adventurePath/abominationVaults).
