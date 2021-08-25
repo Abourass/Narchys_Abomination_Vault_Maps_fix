@@ -1,3 +1,6 @@
+## 1.3.3
+    * Added OTARI map to Book 1.
+
 ## 1.3.2
     * Made the teleport circle in the training grounds more obvious.
 
