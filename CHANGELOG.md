@@ -1,5 +1,5 @@
-## 2.0.1
-    * Beginning of graphical refresh for all maps 
+## 2.1.1
+    * Beginning of graphical refresh for all maps - if you prefer the old ones, they are in the "legacy" folder
     * Updated level 1 and 2 maps with new versions
     * Adjusted level 1 walls - mostly around the arrow slits. These no longer allow vision from "outside" the keep.
 
