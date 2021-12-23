@@ -1,3 +1,8 @@
+## 2.0.1
+    * Beginning of graphical refresh for all maps 
+    * Updated level 1 and 2 maps with new versions
+    * Adjusted level 1 walls - mostly around the arrow slits. These no longer allow vision from "outside" the keep.
+
 ## 1.3.3
     * Added OTARI map to Book 1.
 
