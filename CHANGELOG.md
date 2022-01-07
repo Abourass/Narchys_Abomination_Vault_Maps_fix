@@ -1,4 +1,8 @@
-## 2.1.1
+## 2.1.2
+    * Updated level 3 and 4 maps with new versions. Images for the old version are in the legacy folder. 
+    * There have been a significant number of changes to the layout of the cave and cavern walls. If you are using an existing scene, you will notice that your walls no longer line up. 
+
+# 2.1.1
     * Beginning of graphical refresh for all maps - if you prefer the old ones, they are in the "legacy" folder
     * Updated level 1 and 2 maps with new versions
     * Adjusted level 1 walls - mostly around the arrow slits. These no longer allow vision from "outside" the keep.
