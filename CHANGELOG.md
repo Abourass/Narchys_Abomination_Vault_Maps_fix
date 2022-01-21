@@ -1,3 +1,7 @@
+## 2.2.1
+    * Updated maps for level 5 (training grounds), level 6 (laboratory) and level 7 (prison). There have been some changes to the wall layout, so you may notice walls not lining up. 
+    * Added lighting for levels 5, 6 and 7.
+
 ## 2.1.2
     * Updated level 3 and 4 maps with new versions. Images for the old version are in the legacy folder. 
     * There have been a significant number of changes to the layout of the cave and cavern walls. If you are using an existing scene, you will notice that your walls no longer line up. 
