@@ -2,32 +2,64 @@
   "name": "av-maps-remake-by-narchy",
   "title": "Abomination Vaults maps remake",
   "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition ABOMINATION VAULTS Adventure Path.</p>",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+      "minimum": "0.8.0",
+      "verified": "11"
+    },
   "author": "Narchy",
+  "authors": [
+    {
+      "name": "Narchy",
+      "url": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps"
+    }
+  ],
   "packs": [
     {
       "name": "av-remake-maps-book-1-by-narchy",
       "label": "AV maps remake - Book 1 by Narchy",
       "path": "/packs/av-remake-maps-book-1-by-narchy.db",
-      "entity": "Scene"
+      "entity": "Scene",
+      "type": "Scene",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
     },      
     {
       "name": "av-remake-maps-book-2-by-narchy",
       "label": "AV maps remake - Book 2 by Narchy",
       "path": "/packs/av-remake-maps-book-2-by-narchy.db",
-      "entity": "Scene"
+      "entity": "Scene",
+      "type": "Scene",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
     },      
     {
       "name": "av-remake-maps-book-3-by-narchy",
       "label": "AV maps remake - Book 3 by Narchy",
       "path": "/packs/av-remake-maps-book-3-by-narchy.db",
-      "entity": "Scene"
+      "entity": "Scene",
+      "type": "Scene",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
     }         
   ],
-  
-  "url": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps",
-  "manifest": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json",
-  "download": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/archive/master/abomination-vaults-remade-maps.zip"
+  "packFolders": [
+    {
+        "name": "Narchy's Maps",
+        "sorting": "a",
+        "color": "#6f1c17",
+        "packs": [
+          "Scenes"
+        ]
+    }
+  ],
+  "url": "https://github.com/Abourass/Narchys_Abomination_Vault_Maps_fix",
+  "manifest": "https://github.com/Abourass/Narchys_Abomination_Vault_Maps_fix/releases/download/release/module.json",
+  "download": "https://github.com/Abourass/Narchys_Abomination_Vault_Maps_fix/archive/refs/tags/release.zip"
 }
